@@ -1,7 +1,7 @@
 ﻿namespace knightmoves;
 public class VariableTypes
 {   
- public string AnimalName = "";
+ public string AnimalName = "cupcake";
  public char GradeLetter = "A";
  public int Year = 2;
  public double Height = 6.4;
